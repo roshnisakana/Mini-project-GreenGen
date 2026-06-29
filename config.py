@@ -1,0 +1,5 @@
+MYSQL_HOST     = 'localhost'
+MYSQL_USER     = 'root'
+MYSQL_PASSWORD = 'roshni'
+MYSQL_DB       = 'greengen'
+SECRET_KEY     = 'greengen_secret_key_2024'
